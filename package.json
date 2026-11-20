@@ -15,7 +15,7 @@
     "namespace": "theatre"
   },
   "dependencies": {
-    "@museumwnf/theatre-data": "^1.0.19",
+    "@museumwnf/theatre-data": "^1.0.20",
     "@museumwnf/viewer-core": "^2.23.1",
     "@museumwnf/viewer-i18n": "^6.21.0",
     "@museumwnf/viewer-layout": "^3.78.0",
